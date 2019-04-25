@@ -1,0 +1,25 @@
+body{
+  background: url('https://image.freepik.com/darmowe-zdjecie/sylwetka-cz%C5%82owieka-stoj%C4%85cego-i-rozprzestrzenia%C4%87-r%C4%99k%C4%99-na-szczycie-gory-aby-cieszy%C4%87-si%C4%99-kolorowym-niebem_37885-63.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+h1{
+  font-size:3rem;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  padding: 0;
+  border:0;
+  margin-top: 5rem;
+  margin-bottom:2rem;
+  margin-right:auto;
+  margin-left: auto;
+  width:90vw;
+  color:purple;
+}
+h3{
+  font-size:1rem;
+  text-align: center;
+  font-family: 'Calligraffitti', cursive;
+  padding: 0;
+  margin: 0;
+  border:0;
+}
